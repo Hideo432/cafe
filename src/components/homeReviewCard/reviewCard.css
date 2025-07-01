@@ -1,0 +1,15 @@
+.review_card__container {
+  position: relative;
+}
+
+.review_card__text {
+  width: 226px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 178px;
+  background-color: #ffcb7c;
+  left: 37px;
+  box-shadow: 0 0 0 6px #ffcb7c62;
+  border-radius: 10px;
+  line-height: 1.4;
+}

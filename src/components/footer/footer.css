@@ -1,0 +1,28 @@
+.footer {
+  width: 100%;
+  position: relative;
+}
+.footer__content {
+  background-image: url("/src/assets/image/footer-bg.png");
+  width: 1170px;
+  height: 392px;
+  margin: 0 auto;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.footer__btn {
+  position: absolute;
+  padding: 11px 32px;
+  right: 5px;
+  top: 50%;
+  transform: translate(0, -50%);
+  border-radius: 25px;
+  background-color: #2f2105;
+  font-size: 14px;
+  color: #fff;
+  font-weight: 600;
+}
